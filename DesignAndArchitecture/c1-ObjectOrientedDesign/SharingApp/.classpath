@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="app/build/generated/source/buildConfig/debug"/>
+	<classpathentry kind="src" path="app/src/androidTest/java"/>
+	<classpathentry kind="src" path="app/src/main/java"/>
+	<classpathentry kind="src" path="app/src/test/java"/>
+	<classpathentry kind="lib" path="app/build/intermediates/compile_and_runtime_not_namespaced_r_class_jar/debug/R.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/merged_java_res/debug/out.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_0.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_1.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_2.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_3.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_4.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_5.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_6.jar"/>
+	<classpathentry kind="lib" path="app/build/intermediates/project_dex_archive/debug/out/39461094410f9e9e4f8554fec0898ca3f3dfff59776caed29b84191f66d56d6b_7.jar"/>
+	<classpathentry kind="lib" path="app/src/include/gson-2.8.2-SNAPSHOT.jar"/>
+	<classpathentry kind="lib" path="gradle/wrapper/gradle-wrapper.jar"/>
+	<classpathentry kind="output" path="app/build/intermediates/javac/debug/classes"/>
+</classpath>
