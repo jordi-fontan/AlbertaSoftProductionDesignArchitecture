@@ -1,0 +1,33 @@
+[MUSIC] Hi, I'm Ken Wong. Welcome to the Client Needs and Software
+Requirements course within the Software Product Management specialization. This course will deliver fundamental
+elements to the specialization, while serve as as one leg in the inuksuk that depicts
+the structure of the specialization. In this segment, I'll give you a preview
+of what you'll learn in this course. In the introductory course, I said that
+making better software involved three goals, and these goals were: the right
+product, done right, and managed right. To identify the right product, you have to
+understand the needs of your clients and users, not just the wants. What is a problem they need to solve? What are the tasks they need to do? Who will use this software and
+how will the user interact with it? When you can answer these questions, you will help your development
+team build the right product. To achieve done right and managed right, software development must start with
+a clear set of software requirements, which are later planned, designed,
+implemented, and tested. In this course, you will learn how to elicit
+the needs from your clients and users. You will also learn how to express these
+needs as a set of requirements to initiate software development and
+plan activities. In the first module, Bradley Poulette will outline several
+types of software requirements and explain how to handle changes in requirements,
+and ways to avoid scope creep. He'll also address the issue of the fuzzy
+boundary between requirements and design. In the second module, Morgan Patzelt will
+describe issues when making products for people, and present effective
+ways to elicit their needs. She'll also explain how to apply use cases to capture the tasks the product
+will need to support. Then she'll provide an overview of how to
+apply two visual design techniques, wire frames and storyboards, which are useful
+in early discussions about the product. In the third module, Bradley returns to
+talk about Agile requirements techniques. In particular, he'll describe user
+stories to express requirements, acceptance tests to verify them,
+a product backlog to prioritize them, and storymaps to organize them. In the fourth and final module,
+Morgan returns to outline several criteria that effective software requirements and
+user stories need to possess. As well, she'll identify signs
+of ambiguity to watch out for to make sure that requirements
+are not misinterpreted. By the end of this course, you'll have
+gained a practical set of techniques used to elicit the needs of
+your clients and users, and to express the requirements really well. You will apply these techniques to
+build a better software product, the right product.

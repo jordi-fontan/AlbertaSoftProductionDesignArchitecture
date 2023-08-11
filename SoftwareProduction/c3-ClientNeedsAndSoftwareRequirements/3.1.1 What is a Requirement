@@ -1,0 +1,87 @@
+[MUSIC] Welcome to the Client Needs &
+Software Requirements Course. This course is part of
+the Coursera specialization on Software Product Management. In this course we're going to cover
+one of the most critical aspects of software product management: The requirements. If you're joining us for the first time, I'm Bradley, and
+I'll be your guide through this course. I have worked as a product manager, with
+many software projects in the past, and have studied a broad range of
+techniques relating to the field here at the University of Alberta. In the introduction course, we touched
+on why requirements are important. They help us to clearly
+define client needs, detect errors early before they
+become expensive to fix, and to ultimately ensure that the product you're
+developing meets the needs of your client. In this lesson I am going to give you
+a good overview of what a requirement is, and the activities involved
+in dealing with requirements. These days,
+end users are becoming more demanding, and products are becoming more sophisticated. In order to make sure you get the right
+product, and have the product done right, you need to make sure you
+start with good requirements. There are a variety of
+definitions out there. Some are technical, some are not. The Institute of Electrical and
+Electronics Engineers, or the IEEE, has its own detailed
+definition of what a requirement is. You can find that definition
+in our course notes. However, that definition
+isn't very concise. So in this course, and this specialization,
+the definition of requirements is this. Requirements are specific
+descriptions of your client's needs. As you'll see in this lesson and this
+course, requirements can take many forms. They can be done well and not so well. In fact,
+how well your requirements are defined and refined, can dramatically impact
+your potential for success. Getting your requirements right, starts with knowing the proper
+activities to discover them. As well as the proper forms of
+a well written requirement. By the end of this course, you'll not
+only know how to carry out the activities required to make a good requirement. But you'll also know how to recognize
+when a requirement can be improved. Now that you've seen
+what requirements are, let's see if you can
+pick out some examples. Of the following, which would you
+consider software requirements? A. As a hotel manager,
+I want to be able to check guests in. B. I'm required to make
+you sign a contract. C. Account holders will enter their
+banking pin into a numeric keypad, or D. Users are male? Answers A and
+C are the correct answers here. They both describe specific
+functionalities that the client needs implemented. The other two are not requirements at all. How do you make sure that your
+requirements are done well? Practicing requirements activities
+are a good place to start. Remember, activities are associated
+with phases in software development. The activities which we'll
+talk about in this lesson, are the ones associated with
+the specification phase. It's usually the earliest phase in a
+process, because it's the stage where you define what your product will do and
+how it will do it. Five important activities in
+this phase are eliciting, expressing, prioritizing, analyzing,
+and managing requirements. Let's first talk about
+eliciting requirements. In essence, elicitation is just the act
+of getting requirements from your client. However, do not mistake this for
+requirements gathering. There is a key difference between
+gathering and elicitation. That difference is how you as a software
+product manager interact with a client. The word gathering is typically used to
+describe the act of asking your client for a list of things they want done. Elicitation is a much more involved,
+interactive, and investigative process. And results in exponentially
+better requirements. Better requirements lead
+to better software. So it's always a good idea to take
+the time to make sure you get this right. What exactly is involved in
+requirements elicitation? To understand this, let's look at an example of how
+requirements gathering looks. Imagine that you're a software
+product manager that's been asked to build a system for your client. In your first meeting you ask,
+so what do you want? They've come prepared, and
+hand you a piece of paper which outlines all the features they want
+to see in the product, with images specifying exactly how
+they expect the interface to look. What happens then? Well, an untrained software product
+manager and their development team might take this list and begin planning
+the exact product specified by the client. After all, you are being hired to
+program what the client wants, right? Well, technically yes. The majority of the time, however, your client won't know
+much about how software is built. Or the functionalities which are required
+for their product to be successful. They often present you with a list of
+things they want in the product, but don't have the technical
+knowledge to know what they need. Next, let's get an industry perspective on
+the difference between wants and needs. [MUSIC] I know I've found in my own career that asking
+customers what they want will give you one answer, and observing them in their own
+native environment will give you, often, a very different answer and
+will often show surprises. So, I think the approach I would take to
+finding out what they really need is to observe the customer in, as close to
+their native environment as possible. [MUSIC] >> The right product is tightly
+connected to the right problem. A product done right may be done right,
+but it is not necessarily
+solving the right problem. That is the difference, and
+every time you spend ensuring that you have the right product is worthwhile. You'll get people adopting your
+product if it is the right one, even if it has a few defects. Customers would forgive you; they know
+with time, you will fix the defects. But if you get the product wrong, but you built it with zero defects,
+you've wasted all your efforts. People will still wouldn't
+adopt the product. That is the difference between a product
+done, between the right product and a product that's done right for
+the sake of it being done right.

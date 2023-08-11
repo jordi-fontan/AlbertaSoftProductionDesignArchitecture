@@ -1,0 +1,57 @@
+[MUSIC] In the last lesson,
+we discussed what requirements are and the different activities
+associated with them. We learned that requirements
+are really just a way for us to get client needs expressed in a way
+which can be turned into real products. We also learned that these
+requirements can be elicited and expressed most easily when the development
+team and the clients collaborate. So now that we've gotten our feet wet,
+let's wade a little deeper. In order to understand how to get
+the most out of our requirements, we must understand the different types
+of requirements that may be needed for a software product. When you think of the term requirement,
+what comes to mind? Perhaps you envision a list of features
+which should be included in the final version of the product. Perhaps you envisioned
+a set of descriptions of how the product should
+perform in different situations. Or maybe you envisioned
+the reason why that product should exist in the first place. As it turns out, all of these
+are valid kinds of requirements. Together, they describe what the product
+should be like, how it should work, and why it should exist
+in the first place. Let's talk about these in more detail. The first requirement we mentioned -
+the “why the product is needed”, is called the business requirement. Business requirements outline
+the purpose of a software project. They give the product owners a reason to
+pursue the project in the first place. You might imagine these requirements as
+being separate form the actual development of a product. These requirements are not just
+personal or ethical reasons. Like, must be first on the market or
+must be used by as many users as possible. A business requirement must define
+product needs that provide tangible and quantifiable business value. An example of a business requirement is,
+I need this product to appeal to clothing designers in India to raise
+our revenue by $50,000 per year. That is a business requirement. Business requirements are used
+by your client when creating business strategies and plans. They’re a way for business analysts to review the ultimate
+business goals for the product. It should be noted that business
+requirements may also go by other names. The term business
+requirement could be used to describe requirements which we'll
+talk about later in this lesson. For our purposes, business requirements
+refer to just those requirements which make up the why
+the product should exist. Sometimes the concept of a business
+requirement is associated with words like budget,
+policies or regulations. These are examples of what
+we call business rules. These rules are more specific
+than business requirements. Business rules constrain
+how the product functions. They also specify rules that
+need to be followed in order for the project to be considered successful,
+or even appropriate. Here are some examples of business rules. A privacy policy where the business
+requires data be stored securely and not shared with non essential personnel. A brand uniformity requirement where
+the products to be developed must be visually consistent with other
+products owned by the client. A government regulation such as
+a requirement to maintain user data, and any information regarding
+its manipulation for a specific period of time according
+to local or international laws. All of these things are business rules. They outline some of
+the product restrictions. You can imagine business
+rules as dictating under what restrictions a software
+product must be developed. We just talked about
+two requirements types: business requirements and business rules. Suppose you're forming requirements for an invoicing product that
+needs to calculate sales tax. Which type of requirement
+are you creating? A. a business requirement,
+or B. a business rule. The answer is B, business rule. Collecting sales tax is a legal
+requirement from government upon corporations making sales,
+which constrains sales-related products. The best answer is a business rule. A business requirement would be more
+of description of why you're making the product in the first place.

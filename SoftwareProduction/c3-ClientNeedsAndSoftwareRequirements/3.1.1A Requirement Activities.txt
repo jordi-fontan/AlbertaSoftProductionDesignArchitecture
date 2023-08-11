@@ -1,0 +1,107 @@
+[MUSIC] As a software product manager, your job here is to tease apart
+the client's wants from their needs. Wants are desired functions that
+they'd like to see in the product. Needs are the core functions required in
+order to address the specific problem that the product is intended to solve. These needs take priority. Because they address what
+the client's end user really needs as opposed to what would
+be considered valuable. That isn't to say that the client's
+desires are invalid or that they can't be done. It's just to say that consideration must
+go into the product from the technical side, in order to ensure that
+the product can be done with success. If you had simply asked
+the client what they want, you would only get a list of
+their desired functionality. Instead of narrowing things
+down to what they really need. This forces you into a corner, and puts you in a place where
+you have to be reactive. In order to be proactive, it’s always best to go through this
+activity of requirements elicitation. Here you are able to pick
+apart the needs from the wants by really getting involved
+in the product's definition. Here is an example. Imagine the same situation
+I described previously. You're sitting with your client at a table
+for the first time to define your product. You start the conversation off like this: I'm really excited to be working
+with you and I can't wait for this project to get started. Let's talk a little bit about what
+you would like to see in the product as a whole, and my team and I will try to give you some insight
+into the best way to create it. Just like before,
+the client pulls out their list of features that they'd like
+to see in their product. You begin to talk, and by the end of the
+conversation, you've determined that half of their features involve some sort of
+user interface design, where the other half involve what the end user will do
+with a product to solve their problem. You all agree it's best to go forward by
+addressing these end user needs first, and by building an interface
+to suit those needs. If that turns out to be the same interface
+that was designed before, great. But don't limit yourself to a specific
+design within your requirements. You get some insights into your
+users needs through your client's interface design. And add a few more
+requirements based on that. Both you and your client leave the meeting
+knowing exactly what to expect over the course of the project. What's more, you know that the things
+which are expected of you and your team are manageable. Because you helped to define
+what those expectations are. Your client may not be getting the same
+user interface they designed, but they're blown away nonetheless. They're confident that you
+know what you're doing and understand their end users' needs. What's more, they now see you as
+a collaborative active leader. As opposed to someone who will
+just follow what they're told, even if what they're told won't
+bring out the best results. However, don't just throw away a client's
+proposed user interface design or other potential wants. While a particular interface may not be
+necessary for the app to address client needs, they still prove
+incredibly useful for discussion. And for developing other needs that
+might not have been noticed before. Let's test your knowledge. Which of the following is not an activity
+associated with the specification phase? A. Eliciting requirements, B.
+Gathering requirements, C. Expressing requirements, or
+D. Managing requirements? The correct answer is B,
+gathering requirements. Remember, gathering requirements is
+different from eliciting requirements in the way that the software product
+manager interacts with the client. Eliciting requirements is
+the correct activity to carry out, not gathering requirements. So, you just figured out what your client
+needs and what you're expected to create. Awesome. Now, how do you frame these
+requirements in such a way that your team can use
+them to create a product? That is what the activity of
+expressing requirements is all about. Where requirements elicitation is the act
+of teasing out the needs from the wants. Requirements expression is the act of
+getting those needs into some usable form. Most of the time, your requirements start
+off as a set of scribbles on a notepad taken during the requirements
+elicitation meeting with your client. They're usually overly simplified and
+not extremely well thought out, but that's okay. You're just starting to define
+things with your client anyway. It's a good start but there are better
+ways to express what your client needs. These needs can take the form
+of a use case, a user story, a storyboard and
+many other representations. They can be textual or graphical,
+detailed or simplistic. Different projects require
+different means of expressing them. In this course we will cover many
+of these means of expression. So, now you've elicited your
+client's requirements and expressed them in a way that your
+team can use to create the product. You have a big list of
+requirements for your client needs. What's next? In Scrum, the next step is to
+prioritize those requirements. The idea here is to take the big list and
+distill it down even further into what “must be done”, what
+“should be done” and what “could be done”. Then, once you have your requirements
+prioritized in this manner, the next step is to plan and
+estimate those requirements. Another important activity when
+creating a list of requirements is analyzing them to make sure that
+they're complete, clear, and consistent. You want to make sure that you're
+going to meet your client's needs by building a product based
+on these requirements. You'll also want to make sure that
+all the requirements you have created work well together. You might get requirements which
+initially seem to work well together but upon further inspection actually clash. So by analyzing your requirements,
+you make sure that they accurately reflect the product which you're
+setting out to build. They also help to ensure that product will
+be as good as it can be possibly made. Morgan and I are going to do our best to
+make sure you know how to create good requirements by continually evaluating and
+improving upon them. In Scrum, what is the step which happens
+after requirements have been elicited and expressed from the client and placed in a large list,
+also known as a product backlog? A. Development, B.
+Requirements prioritization, C. Product architecture design, or
+D. Further requirements elicitation. The correct answer here is B,
+requirements prioritization. Once you have all your requirements
+elicited and expressed from your client, the next step is to have your
+client prioritize the requirements. The last activity for creating good requirements which I'm
+going to mention is managing them. After all, requirements are important and
+you don't want to lose them. Each requirement needs to be referred
+to by the developers from many places. Like their code, their tests,
+and change logs. When a requirement changes,
+you want to know that it happened and to understand the impact
+on other requirements. Also, you want to group, and reorganize
+your requirements in different ways. Possibly reusing subsets
+in other products. These aspects fall under
+managing requirements. So requirements are specific
+descriptions of your client's needs. And can take many forms. There are five main activities to elicit,
+express, prioritize, analyze, and manage requirements. Now that you know the basics
+of requirements and their associated activities,
+we're ready to dive a little deeper. In the next lesson I'm gonna tell
+you about the different types of requirements out there.
